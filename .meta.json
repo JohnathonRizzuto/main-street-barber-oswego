@@ -1,0 +1,25 @@
+{
+  "name": "Main Street Barber",
+  "town": "Oswego IL",
+  "type": "barbershop",
+  "address": "73 Main St, Oswego, IL 60543",
+  "phone": "6305543180",
+  "checklistComplete": 10,
+  "researchStartedAt": "2026-05-30T05:08:00Z",
+  "stage1FinishedAt": "2026-05-30T05:16:30Z",
+  "bookingUrl": "https://www.fresha.com/lvp/main-street-barber-main-street-oswego-yXak8l",
+  "aiAssets": {
+    "logo": {
+      "source": "text_wordmark",
+      "url": null,
+      "note": "FB Graph binary fetch blocked by Stage-1 sandbox egress; styled wordmark with replace-comment"
+    },
+    "hero": {
+      "source": "css_gradient_unsplash",
+      "generated": false,
+      "note": "Canva export hosting blocked (no binary egress); premium CSS gradient + Unsplash photographic layer"
+    },
+    "galleryEdited": false,
+    "galleryNote": "Adobe Stock licensing works but S3 binary download is blocked in sandbox; gallery uses Unsplash + CSS brand-grade (var(--img-filter)) per documented per-asset fallback"
+  }
+}

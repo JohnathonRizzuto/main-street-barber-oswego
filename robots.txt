@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://main-street-barber-oswego.vercel.app/sitemap.xml
